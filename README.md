@@ -74,3 +74,5 @@ O objetivo desse desafio é avaliar a seus conhecimentos fundamentais de front e
 - Adição de processo no gulp para otimizar imagens
 
 ##### Dúvidas: [vinicius.delfino@cadastra.com](mailto:vinicius.delfino@cadastra.com?subject=Dúvida%20Vaga%20DEV%20-%20Cadastra)
+
+Email para contato: guh.escobar@hotmail.com
